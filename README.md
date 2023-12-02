@@ -1,6 +1,6 @@
 (ArchLinux only)
 
-This script verifies whether any of the outdated packages (whose names show up when you run "pacman -Syu") have open issues in Arch GitLab issue tracker. It helps making decision whether you want to hold off updating certain packages if issues are found.
+    This script verifies whether any of the outdated packages (whose names show up when you run "pacman -Syu") have open issues in Arch GitLab issue tracker. It helps making decision whether you want to hold off updating certain packages if issues are found.
 
 SYNAPSIS
 
